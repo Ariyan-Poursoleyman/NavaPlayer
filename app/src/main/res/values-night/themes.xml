@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NavaPlayer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <!-- رنگ‌های اصلی برند -->
+        <item name="colorPrimary">@color/dark_gray</item> <!-- تم اصلی مشکی تیره -->
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/yellow_primary</item> <!-- برای آیکون‌ها یا نوشته‌های روی پس‌زمینه مشکی -->
+
+        <!-- رنگ دوم برند (برای دکمه‌ها یا تأکیدها) -->
+        <item name="colorSecondary">@color/yellow_primary</item>
+        <item name="colorSecondaryVariant">@color/yellow_dark</item>
+        <item name="colorOnSecondary">@color/black</item> <!-- برای نوشته‌های روی زرد -->
+
+        <!-- رنگ نوار وضعیت بالا -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- پس‌زمینه کلی اپ -->
+        <item name="android:windowBackground">@color/dark_gray</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

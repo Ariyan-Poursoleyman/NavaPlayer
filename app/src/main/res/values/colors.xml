@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color> <!-- مشکی مطلق -->
+    <color name="dark_gray">#121212</color> <!-- پس‌زمینه سطح دوم -->
+    <!-- سطح سوم -->
+    <!-- برای کارت‌ها -->
+
+    <!-- 💛 رنگ‌های زرد تاکیدی -->
+    <color name="yellow_primary">#FFD600</color> <!-- زرد اصلی -->
+    <color name="yellow_dark">#F9A825</color> <!-- زرد کهربایی (برای دکمه‌ها) -->
+    <color name="yellow_light">#FFEB3B</color> <!-- زرد ملایم‌تر (هایلایت‌ها) -->
+
+    <!-- 🖋 رنگ‌های متن -->
+    <color name="white">#FFFFFF</color> <!-- متن اصلی -->
+    <!-- متن ثانویه -->
+    <!-- Placeholder یا hint -->
+
+
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_900">#212121</color>
+</resources>
